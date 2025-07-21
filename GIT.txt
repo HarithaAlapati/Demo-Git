@@ -1,0 +1,10 @@
+GIT
+-- Version Control
+-- Make chages save
+
+"D:\Sample\GIT.txt"
+
+
+Primitive Data types, variables, Operators, String Concentrator, String Builder, String API, date, Time and numeric objects, Flow control, Conditions, Switch, Loop & branch, Arrays, Enum
+OOPs concepts, Classes and Objects, Inheritance, Polymorphism, Abstraction, Encapsulation, Interfaces, Composition, Overloading and Overriding, Aggregation
+Exception Handling, Try-Catch Blocks, types of exceptions, Throwing Exceptions & catching Multiple Exceptions, Finally block,custom exceptions, Concurrency, File I/O, Try with Resources, Error Hierarchy
