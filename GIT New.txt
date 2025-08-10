@@ -3,3 +3,6 @@ GitHub, Fetching & Pulling, Git Collaboration, Git tags, Git Clone, Git Forking,
 
 Completed
 Git intro, Create & Manage repositories, Repository settings, Adding & Commiting,
+
+hello
+i have made a change in the git new.txt
